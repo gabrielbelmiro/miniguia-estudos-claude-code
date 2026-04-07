@@ -126,8 +126,8 @@ IA amplifica produtividade. Prompt bem feito = resultado melhor.
 
 ## ⭐ Roadmap
 
--   CI/CD\
--   Automação\
+-   CI/CD
+-   Automação
 -   Prompts avançados
 
 ## 🎓 Formação
